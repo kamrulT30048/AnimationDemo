@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animation Demo</string>
+    <string name="btn_rotation">Rotate</string>
+    <string name="btn_bounce">Bounce</string>
+    <string name="btn_fadeIn">Fade in</string>
+    <string name="zoomIn">ZoomIn</string>
+    <string name="zoom_out">ZoomOut</string>
+    <string name="btn_slide_in">Slide In</string>
+    <string name="animation_title">Welcome to Animations</string>
+</resources>
